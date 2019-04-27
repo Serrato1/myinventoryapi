@@ -1,0 +1,28 @@
+{
+  "name": "inventoryapplication",
+  "version": "1.0.0",
+  "description": "",
+  "main": "knexfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Serrato1/myinventoryapi.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Serrato1/myinventoryapi/issues"
+  },
+  "homepage": "https://github.com/Serrato1/myinventoryapi#readme",
+  "dependencies": {
+    "body": "^5.1.0",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "knex": "^0.16.5",
+    "parser": "^0.1.4",
+    "pg": "^7.10.0"
+  }
+}

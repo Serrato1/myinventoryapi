@@ -19,6 +19,7 @@
   "homepage": "https://github.com/Serrato1/myinventoryapi#readme",
   "dependencies": {
     "body": "^5.1.0",
+    "connect": "^3.6.6",
     "ejs": "^2.6.1",
     "express": "^4.16.4",
     "knex": "^0.16.5",
